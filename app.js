@@ -1,6 +1,6 @@
 let numeroSecreto = 0;
 let intentos = 0;
-let numeroMaximo = 4;
+let numeroMaximo = 10;
 
 // Lista para almacenar los valores ya jugados
 let listaNumerosSorteados = [];
@@ -97,4 +97,5 @@ function reiniciarJuego(){
         
         
 condicionesIniciales();
+
 
